@@ -6,3 +6,4 @@
 - Ya esta listo para usar.
 - No esta listo para host, solo para localhost
 - Crea carpetas y comandos con el nombre que quieras, pero siempre adentro de la carpeta commands.
+- Configurar el prefix y el token en el archivo config.json
